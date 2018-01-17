@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import iota
 
-from config import SEED, PATH_LIB_DCURL
+from config import SEED
 
 ## Output transaction
 TXN_TAG = 'TESTINGPYTHON'
